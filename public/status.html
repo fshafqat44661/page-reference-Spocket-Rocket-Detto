@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Reference Capture Status</title>
+    <link rel="stylesheet" href="/ditto/status.css" />
+  </head>
+  <body>
+    <div class="bg-orb orb-a"></div>
+    <div class="bg-orb orb-b"></div>
+    <main class="container">
+      <header class="header">
+        <p class="tag">Sprocket Rocket · Reference Capture</p>
+        <h1 id="title">Preparing your reference capture</h1>
+        <p id="subtitle">Scanning your page and mapping the best Sprocket Rocket modules.</p>
+      </header>
+
+      <section class="progress-shell">
+        <div class="progress-track">
+          <span id="progressFill" class="progress-fill"></span>
+        </div>
+        <div class="progress-row">
+          <span id="progressPct">0%</span>
+          <span id="stageText">queued</span>
+        </div>
+      </section>
+
+      <section class="stage-grid">
+        <article class="stage-card" data-stage="queued">
+          <h3>Queued</h3>
+          <p>Request accepted</p>
+        </article>
+        <article class="stage-card" data-stage="scanning">
+          <h3>Scanning</h3>
+          <p>Capturing website</p>
+        </article>
+        <article class="stage-card" data-stage="analyzing">
+          <h3>Analyzing</h3>
+          <p>Extracting structure</p>
+        </article>
+        <article class="stage-card" data-stage="matching">
+          <h3>Matching</h3>
+          <p>Mapping modules</p>
+        </article>
+        <article class="stage-card" data-stage="finalizing">
+          <h3>Finalizing</h3>
+          <p>Building final URL</p>
+        </article>
+        <article class="stage-card" data-stage="completed">
+          <h3>Done</h3>
+          <p>Redirecting to Ditto</p>
+        </article>
+      </section>
+
+      <section class="status-box">
+        <div class="pulse-dot" id="pulseDot"></div>
+        <p id="statusMessage">Waiting for server updates...</p>
+      </section>
+
+      <section class="activity-feed">
+        <h3>Live Activity</h3>
+        <ul id="activityList"></ul>
+      </section>
+
+      <section class="actions">
+        <a id="openLink" class="button hidden" href="#" rel="noopener">Open final URL now</a>
+        <button id="retryBtn" class="button secondary hidden" type="button">Retry status check</button>
+      </section>
+    </main>
+
+    <script src="/ditto/status.js"></script>
+  </body>
+</html>
