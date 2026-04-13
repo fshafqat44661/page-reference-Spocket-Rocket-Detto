@@ -1,0 +1,8 @@
+node_modules/
+*.log
+*.pem
+*.key
+service-account.json
+secrets/
+keys/
+config.bat

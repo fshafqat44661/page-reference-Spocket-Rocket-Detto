@@ -1,0 +1,796 @@
+{
+    "modules": [
+        {
+            "name": "SR Bling Graphic 01",
+            "description": "Ideal for showcasing images in their full glory. This module is designed for posting impactful images.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-bling-graphic-01.jpg"
+        },
+        {
+            "name": "SR Bling Graphic 02",
+            "description": "Ideal for presenting images in a slider format, maximizing visual impact.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-bling-graphic-02.jpg"
+        },
+        {
+            "name": "SR Cards Articles 01",
+            "description": "Ideal for blog listings on pages with headers, subheaders, CTAs, and blogs. Perfect for showcasing blog articles on your page.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-articles-01.jpg"
+        },
+        {
+            "name": "SR Cards Articles 02",
+            "description": "Ideal for blog listings on pages with headers, subheaders, CTAs, and blogs. Perfect for showcasing blog articles on your page.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-articles-02.jpg"
+        },
+        {
+            "name": "SR Cards Categories 01",
+            "description": "Ideal for posting multiple categories or topics with headers, subheaders, and cards. Perfect for linking to different pages or URLs for various topics.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-categories-01.jpg"
+        },
+        {
+            "name": "SR Cards Features 01",
+            "description": "Ideal for displaying products with headers, subheaders, cards, images, and buttons. Perfect for easily comparing different products.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-features-01.jpg"
+        },
+        {
+            "name": "SR Cards Filter 01",
+            "description": "Ideal for compiling resources like case studies and news with headers, subheaders, cards, and filter dropdowns. Perfect for creating resource pages.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-filter-01.jpg"
+        },
+        {
+            "name": "SR Cards Filter 02",
+            "description": "Ideal for compiling resources like case studies and news with headers, subheaders, cards, and filter dropdowns. Perfect for creating resource pages.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-filter-02.jpg"
+        },
+        {
+            "name": "SR Cards Flip 01",
+            "description": "Ideal for compiling resources, products, or others with headers, subheaders, cards, images, and flip cards.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-flip-01.jpg"
+        },
+        {
+            "name": "SR Cards Grid 01",
+            "description": "Perfect for linking to multiple subpages creatively, featuring cards, card headings, card body text, buttons, and an interactive hover state.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-grid-01.jpg"
+        },
+        {
+            "name": "SR Cards Grid 02",
+            "description": "Ideal for displaying an inventory of items with headers, body text, and cards. Perfect for inventory pages, commonly used in product section pages.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-grid-02.jpg"
+        },
+        {
+            "name": "SR Cards Pricing 01",
+            "description": "Perfect for product/pricing displays with headers, subheaders, cards, texts, and buttons. Ideal for effortless product comparisons.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-pricing-01.jpg"
+        },
+        {
+            "name": "SR Cards Pricing 02",
+            "description": "Ideal for product/pricing displays with headers, subheaders, cards, texts, and buttons. Perfect for easy product comparisons.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-pricing-02.jpg"
+        },
+        {
+            "name": "SR Cards Pricing 03",
+            "description": "Ideal for showcasing product/package inclusions with headers, subheaders, pricing card, features/texts, and CTA.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-pricing-03.jpg"
+        },
+        {
+            "name": "SR Cards Slider 01",
+            "description": "Excellent for image-text combinations on a slider with headers, subheaders, and slides. Ideal for showcasing multiple items in a slider format.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-slider-01.jpg"
+        },
+        {
+            "name": "SR Cards Steps 01",
+            "description": "Perfect for illustrating process steps with headers, subheading, and cards featuring optional CTAs. Ideal for showcasing the sequential steps toward achieving a goal.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-steps-01.jpg"
+        },
+        {
+            "name": "SR Cards Steps 02",
+            "description": "Perfect for illustrating process steps with headers, subheading, and cards featuring optional CTAs. Ideal for showcasing the sequential steps toward achieving a goal.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-steps-02.jpg"
+        },
+        {
+            "name": "SR Cards Team 01",
+            "description": "Ideal for showcasing team members with headers, body text, CTAs, and cards. Perfect for Meet-the-Team pages, offering a personalized touch with member visuals.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-team-01.jpg"
+        },
+        {
+            "name": "SR Cards Team 02",
+            "description": "Ideal for presenting team members with headers, body text, CTAs, and cards. Perfect for Meet-the-Team pages, enhancing personalization with visuals of each member.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-team-02.jpg"
+        },
+        {
+            "name": "SR Cards Team 03",
+            "description": "Ideal for presenting team members with headers, body text, CTAs, and cards. Perfect for Meet-the-Team pages, enhancing personalization with visuals of each member.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-team-03.jpg"
+        },
+        {
+            "name": "SR Cards Team 04",
+            "description": "Ideal for presenting team members with headers, body text, CTAs, and cards. Perfect for Meet-the-Team pages, enhancing personalization with visuals of each member.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-team-04.jpg"
+        },
+        {
+            "name": "SR Cards Testimonial Grid 01",
+            "description": "Ideal for showcasing client testimonials with headers, body text, and cards.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-testimonial-grid-01.jpg"
+        },
+        {
+            "name": "SR Cards Testimonial Grid 02",
+            "description": "Ideal for showcasing client testimonials with headers, body text, and cards.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-testimonial-grid-02.jpg"
+        },
+        {
+            "name": "SR Cards Testimonial Slider 01",
+            "description": "Ideal for highlighting client testimonials with headers, body text, and slides.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-testimonial-slider-01.jpg"
+        },
+        {
+            "name": "SR Cards Testimonial Slider 02",
+            "description": "Perfect for showcasing client testimonials on your homepage with headers, body text, slides, and image backgrounds.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-testimonial-slider-02.jpg"
+        },
+        {
+            "name": "SR Cards Testimonial Slider 03",
+            "description": "Perfect for showcasing client testimonials on your homepage with headers, body text, slides, and image backgrounds.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-testimonial-slider-03.jpg"
+        },
+        {
+            "name": "SR Cards Testimonial Slider 04",
+            "description": "Ideal for displaying client reviews with headers, body text, and slides.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-testimonial-slider-04.jpg"
+        },
+        {
+            "name": "SR Cards Testimonial Slider 05",
+            "description": "Ideal for showcasing service/product reviews and testimonials with headers, body text, CTAs, images, and slides.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-testimonial-slider-05.jpg"
+        },
+        {
+            "name": "SR Cards Three Cols 01",
+            "description": "Ideal for presenting information with a central image and two flanking cards, featuring headers, body text, CTAs, and cards.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-three-cols-01.jpg"
+        },
+        {
+            "name": "SR Cards Timeline 01",
+            "description": "Ideal for detailing events over time with headers, subheaders, cards, and texts. Perfect for chronologically presenting a series of occurrences.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-timeline-01.jpg"
+        },
+        {
+            "name": "SR Case Studies Slider 02",
+            "description": "Perfect for showcasing case studies of your services/products with headers, body text, images, CTAs, and slides.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-case-studies-slider-02.jpg"
+        },
+        {
+            "name": "SR Clients Carousel 01",
+            "description": "Ideal for client scrolls with headers, subheaders, and logos. Perfect for effortlessly showcasing client logos in a scrolling format.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-clients-carousel-01.jpg"
+        },
+        {
+            "name": "SR Contact 01",
+            "description": "Perfect for showcasing your business location and work hours on your contact page. Features headers, body text, Google Maps API, and Map Image for comprehensive contact details.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-contact-01.jpg"
+        },
+        {
+            "name": "SR FAQ 01",
+            "description": "Ideal for FAQs with headers, subheaders, and cards. Perfect for organizing multiple topics or questions along with their answers.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-faq-01.jpg"
+        },
+        {
+            "name": "SR Five Col 01",
+            "description": "Ideal for displaying multiple items/products/icons with headers, subheaders, and columns. Perfect for showcasing with short descriptions below.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-five-col-01.jpg"
+        },
+        {
+            "name": "SR Footer 01",
+            "description": "Global module for Footer Navigation. Menus, Logos, Copyright Text, optional Social Icons combo. Ideal for creating double-step navigational links to pages, content, and resources on your website.",
+            "category": "footer",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-footer-01.jpg"
+        },
+        {
+            "name": "SR Footer 02",
+            "description": "Global module for Footer Navigation. Menus, Logos, Copyright Text, optional Social Icons combo. Ideal for creating double-step navigational links to pages, content, and resources on your website.",
+            "category": "footer",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-footer-02.jpg"
+        },
+        {
+            "name": "SR Footer 03",
+            "description": "Global module for Footer Navigation. Menus, Logos, Copyright Text, optional Social Icons combo. Ideal for creating single-step footer navigational links to pages, content, and resources on your website.",
+            "category": "footer",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-footer-03.jpg"
+        },
+        {
+            "name": "SR Footer 04",
+            "description": "Global module for Footer Navigation. Menus, Logos, Copyright Text, optional Social Icons combo. Ideal for creating single-step footer navigational links to pages, content, and resources on your website.",
+            "category": "footer",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-footer-04.jpg"
+        },
+        {
+            "name": "SR Footer Min 01",
+            "description": "Module for displaying Copyright and Privacy policy information. Stylized Text field included. Ideal for creating a footer with Copyright details and a link to your site's Privacy Policy. Can be converted into a global module.",
+            "category": "footer",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-footer-min-01.jpg"
+        },
+        {
+            "name": "SR Footer Min 02",
+            "description": "Minimalist Footer Navigation module. Menus, Logos, Copyright Text, optional Social Icons combo. Ideal for creating single-step footer navigational links to pages, content, and resources on your website. Can be converted into a global module.",
+            "category": "footer",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-footer-min-02.jpg"
+        },
+        {
+            "name": "SR Gallery 02",
+            "description": "Perfect for displaying multiple image collages with headers, subheaders, and images. Ideal for enhancing your homepage with visual content.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-gallery-02.jpg"
+        },
+        {
+            "name": "SR Gated Content 01",
+            "description": "Perfect for converting visitors as they scroll on your page with headers, texts, images, and a form.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-gated-content-01.jpg"
+        },
+        {
+            "name": "SR Hero 01",
+            "description": "Combines headers, subheaders, buttons, and image/video backgrounds to welcome clients. Ideal for introductory welcome sections.",
+            "category": "hero",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-hero-01.jpg"
+        },
+        {
+            "name": "SR Hero 02",
+            "description": "Headers, subheaders, buttons, image/video backgrounds combo. Ideal for Homepages.",
+            "category": "hero",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-hero-02.jpg"
+        },
+        {
+            "name": "SR Hero 03",
+            "description": "Headers, subheaders, buttons, image/video backgrounds combo. Ideal for Homepages with a small image slider alongside headers/text.",
+            "category": "hero",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-hero-03.jpg"
+        },
+        {
+            "name": "SR Hero 04",
+            "description": "Headers, subheaders, buttons, image/video backgrounds combo. Ideal for Homepages with a stunning background and text.",
+            "category": "hero",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-hero-04.jpg"
+        },
+        {
+            "name": "SR Hero Card 01",
+            "description": "Headers, subheaders, buttons, image/video backgrounds combo. Ideal for Homepages with a stunning background, card, and text.",
+            "category": "hero",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-hero-card-01.jpg"
+        },
+        {
+            "name": "SR Hero Form 01",
+            "description": "Features headers, subheaders, and a form for visitor conversion.",
+            "category": "hero",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-hero-form-01.jpg"
+        },
+        {
+            "name": "SR Hero Parallax 01",
+            "description": "Headers, subheaders, buttons, image/video backgrounds combo. Ideal for welcoming clients with a captivating background, blended with texts and buttons.",
+            "category": "hero",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-hero-parallax-01.jpg"
+        },
+        {
+            "name": "SR Hero Two Col 01",
+            "description": "Headers, subheaders, cards, images, buttons combo. Ideal for showcasing products on your pages with a compelling CTA to convert visitors.",
+            "category": "hero",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-hero-two-col-01.jpg"
+        },
+        {
+            "name": "SR Job Listing 01",
+            "description": "Ideal for listing all career opportunities. Allows easy enumeration of job openings, with the option to expand for more details.",
+            "category": "tabs",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-job-listing-01.jpg"
+        },
+        {
+            "name": "SR Nav Min 01",
+            "description": "Logo and CTAs combo. Ideal for simplifying landing page navigation.",
+            "category": "navigation",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-nav-min-01.jpg"
+        },
+        {
+            "name": "SR Nav Progress Bar 01",
+            "description": "Adds a bar-like symbol above or below the navigation, guiding clients through their current position on the page.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-nav-progress-bar-01.jpg"
+        },
+        {
+            "name": "SR Navigation 01",
+            "description": "Logos, Menus, CTAs, Top bar combo. 3-level navigation, mega menu option. Globally links to pages, content, and resources on your site.",
+            "category": "navigation",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-navigation-01.jpg"
+        },
+        {
+            "name": "SR Notification 01",
+            "description": "Ideal for subtle pop-ups, perfect for enticing clients to seize limited offers or sale items.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-notification-01.jpg"
+        },
+        {
+            "name": "SR Offer Bar 01",
+            "description": "Perfect for CTAs and texts, featuring headers, body text, CTAs, and optional visuals. Ideal for converting visitors to download your guide, template, book, and more.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-bar-01.jpg"
+        },
+        {
+            "name": "SR Offer Bar 02",
+            "description": "Ideal for CTAs and texts, featuring headers, body text, CTAs, and optional visuals. Perfect for converting visitors to download your guide, template, book, and more.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-bar-02.jpg"
+        },
+        {
+            "name": "SR Offer Bar 03",
+            "description": "Ideal for CTAs and texts, featuring headers, body text, CTAs, and optional visuals. Perfect for converting visitors to download your guide, template, book, and more.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-bar-03.jpg"
+        },
+        {
+            "name": "SR Offer Bar 04",
+            "description": "Optimal for CTAs and text with headers, body, CTAs, and background image. Ideal for converting visitors to download guides, templates, books, etc.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-bar-04.jpg"
+        },
+        {
+            "name": "SR Offer Bar 05",
+            "description": "Ideal for text, image, and CTA with headers, body, CTAs, and optional visuals. Perfect for converting visitors to download guides, templates, books, etc.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-bar-05.jpg"
+        },
+        {
+            "name": "SR Offer Bar 06",
+            "description": "Ideal for offer texts with body text and optional CTA. Perfect for converting visitors to download guides, templates, books, etc.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-bar-06.jpg"
+        },
+        {
+            "name": "SR Offer Bar 07",
+            "description": "Ideal for an offer bar with stats and a conversion form. Features headers, body text, forms, and CTAs. Perfect for converting visitors to download guides, templates, books, etc.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-bar-07.jpg"
+        },
+        {
+            "name": "SR Offer Bar 08",
+            "description": "Ideal for a countdown timer to webinars or events, featuring headers, body text, timer, and CTAs. Perfect for converting visitors to join with a CTA.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-bar-08.jpg"
+        },
+        {
+            "name": "SR Offer Exit Modal 01",
+            "description": "A compelling lead magnet for page exit modals on your pages, featuring headers, subheaders, an icon, and a form.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-exit-modal-01.jpg"
+        },
+        {
+            "name": "SR Offer Faux Modal 01",
+            "description": "Ideal for converting visitors with a combination of headers, subheaders, images, and a form.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-faux-modal-01.jpg"
+        },
+        {
+            "name": "SR Offer One Col 01",
+            "description": "Ideal for forms with headers, body text, and forms. Perfect for converting visitors through form submissions.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-one-col-01.jpg"
+        },
+        {
+            "name": "SR Offer Parallax 01",
+            "description": "Ideal for CTAs and texts with headers, body text, CTAs, and parallax visuals. Perfect for converting visitors to download guides, templates, books, etc.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-parallax-01.jpg"
+        },
+        {
+            "name": "SR Offer Parallax 02",
+            "description": "Ideal for CTAs and texts with headers, body text, CTAs, and parallax visuals. Perfect for converting visitors to download guides, templates, books, etc.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-parallax-02.jpg"
+        },
+        {
+            "name": "SR Offer Slide In 01",
+            "description": "Perfect for forms with headers, body text, and sliding forms. Ideal for converting visitors with a form that slides in as they scroll through the page.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-slide-in-01.jpg"
+        },
+        {
+            "name": "SR Offer Smart Pop 01",
+            "description": "A powerful lead magnet for your pages with headers, body text, CTAs, forms, and images.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-smart-pop-01.jpg"
+        },
+        {
+            "name": "SR Offer Two Col 01",
+            "description": "Ideal for converting visitors with a combination of headers, subheaders, image, and a form.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-two-col-01.jpg"
+        },
+        {
+            "name": "SR Offer Two Col 02",
+            "description": "Perfect for seamlessly combining images with forms.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-two-col-02.jpg"
+        },
+        {
+            "name": "SR Offer Two Col 03",
+            "description": "Perfect for forms with headers, body text, and forms. Ideal for converting visitors through form submissions.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-two-col-03.jpg"
+        },
+        {
+            "name": "SR Offer Video CTA 01",
+            "description": "Ideal for your homepage with headers, body text, and video. Perfect for a video offer with a CTA, converting visitors to download guides, templates, books, etc. The video can showcase product demos.",
+            "category": "offers",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-offer-video-cta-01.jpg"
+        },
+        {
+            "name": "SR One Col 01",
+            "description": "Module for displaying texts. Headers, body text, optional visuals, and CTAs combo. Ideal for descriptions or discussions, with optional visuals highlighting specific features.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-one-col-01.jpg"
+        },
+        {
+            "name": "SR One Col Media 01",
+            "description": "Module for video section content. Headers, body text, columns combo. Ideal for showcasing product demos or video content on the page.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-one-col-media-01.jpg"
+        },
+        {
+            "name": "SR Pattern 01",
+            "description": "Ideal for adding flair to your sections, this module introduces eye-catching patterns for a stylish touch.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-pattern-01.jpg"
+        },
+        {
+            "name": "SR Pricing 02",
+            "description": "Ideal for comparing two plan pricing points with headers, subheaders, cards, and texts. Perfect for presenting different pricing options.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-pricing-02.jpg"
+        },
+        {
+            "name": "SR Pricing 03",
+            "description": "Ideal for comparing SaaS plans with headers, subheaders, cards, texts, and buttons. Perfect for presenting and comparing multiple plan pricing points.",
+            "category": "cards",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-pricing-03.jpg"
+        },
+        {
+            "name": "SR Showcase 01",
+            "description": "Ideal for showcasing agency work with headers, subheaders, cards featuring images and texts, buttons, and modals. Perfect for presenting your agency's portfolio.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-showcase-01.jpg"
+        },
+        {
+            "name": "SR Stats 01",
+            "description": "Ideal for showcasing numbers and statistics with headers, subheaders, and stats. Perfect for presenting numerical data in a clear and organized manner.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-stats-01.jpg"
+        },
+        {
+            "name": "SR Stats 02",
+            "description": "Ideal for showcasing numbers and statistics with headers, subheaders, and stats. Perfect for presenting numerical data in a clear and organized manner.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-stats-02.jpg"
+        },
+        {
+            "name": "SR Stats 03",
+            "description": "Ideal for presenting numbers and statistics with headers, subheaders, and stats accompanied by descriptions. Perfect for providing context to numerical data.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-stats-03.jpg"
+        },
+        {
+            "name": "SR Stats 04",
+            "description": "Ideal for showcasing numbers and statistics with headers, subheaders, images, and stats accompanied by descriptions. Perfect for adding visual context to numerical data.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-stats-04.jpg"
+        },
+        {
+            "name": "SR Stats 05",
+            "description": "Perfect for presenting numbers and statistics with headers, subheaders, images, and stats accompanied by descriptions. Ideal for adding visual context to numerical data.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-stats-05.jpg"
+        },
+        {
+            "name": "SR Stats 06",
+            "description": "Ideal for showcasing numbers and statistics with headers, subheaders, and stats accompanied by descriptions. Perfect for providing context to numerical data.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-stats-06.jpg"
+        },
+        {
+            "name": "SR Tabs 01",
+            "description": "Ideal for FAQs and Quick Facts. Features a combination of cards and texts.",
+            "category": "tabs",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-tabs-01.jpg"
+        },
+        {
+            "name": "SR Tabs 02",
+            "description": "An interactive tabbed content module that organizes information into clean, navigable sections. Each tab can display images, videos, forms, or animations alongside headings, descriptions, and call-to-action buttons. Ideal for showcasing product features, service highlights, or step-by-step content while keeping the page organized and easy to explore.",
+            "category": "tabs",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-tabs-02.jpg"
+        },
+        {
+            "name": "SR Tabs Accordion 01",
+            "description": "Ideal for FAQs and Quick Facts. Features a combination of cards and texts.",
+            "category": "tabs",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-tabs-accordion-01.jpg"
+        },
+        {
+            "name": "SR Tabs Accordion 02",
+            "description": "Ideal for FAQs about your products or services, featuring headers, subheaders, cards, and texts.",
+            "category": "tabs",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-tabs-accordion-02.jpg"
+        },
+        {
+            "name": "SR Tabs Horizontal 01",
+            "description": "Ideal for FAQs and Quick Facts, featuring a combination of cards and texts.",
+            "category": "tabs",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-tabs-horizontal-01.jpg"
+        },
+        {
+            "name": "SR Tabs Horizontal 02",
+            "description": "Perfect for FAQs and Quick Facts, featuring a combination of cards and texts.",
+            "category": "tabs",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-tabs-horizontal-02.jpg"
+        },
+        {
+            "name": "SR Tabs Slider 01",
+            "description": "Ideal for showcasing team and work culture images with headers, body text, CTAs, and slides.",
+            "category": "tabs",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-tabs-slider-01.jpg"
+        },
+        {
+            "name": "SR Tabs Slider 02",
+            "description": "Perfect for displaying clients' testimonials with headers, body text, CTAs, and slides.",
+            "category": "tabs",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-tabs-slider-02.jpg"
+        },
+        {
+            "name": "SR Tabs Split Screen 01",
+            "description": "Ideal for elaborating on interconnected topics with large images, texts, and buttons.",
+            "category": "tabs",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-tabs-split-screen-01.jpg"
+        },
+        {
+            "name": "SR Tabs Testimonials 01",
+            "description": "Ideal for showcasing testimonials on your pages.",
+            "category": "tabs",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-tabs-testimonials-01.jpg"
+        },
+        {
+            "name": "SR Tabs Vertical 01",
+            "description": "Perfect for FAQs and Quick Facts. Enables easy topic navigation with a click on tabs. Commonly used for FAQ Pages and About Us Pages.",
+            "category": "tabs",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-tabs-vertical-01.jpg"
+        },
+        {
+            "name": "SR Testimonials 03",
+            "description": "Perfect for showcasing clients' testimonials on your homepage. Features headers, body text, and slides.",
+            "category": "tabs",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-testimonials-03.jpg"
+        },
+        {
+            "name": "SR Three Col 02",
+            "description": "Ideal for a row of items, featuring headers, body text, and cards. Perfect for showcasing product advantages.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-three-col-02.jpg"
+        },
+        {
+            "name": "SR Three Col 03",
+            "description": "Ideal for a quick 3-column grid section on your page. Features headers, body text, and columns.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-three-col-03.jpg"
+        },
+        {
+            "name": "SR Three Col Features 01",
+            "description": "Perfect for Products/Features with headers, subheaders, cards, images, and buttons. Ideal for showcasing the advantages/features of your app or product.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-three-col-features-01.jpg"
+        },
+        {
+            "name": "SR Two Col 01",
+            "description": "Ideal for displaying texts with headers, body text, optional visuals, and CTAs.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-two-col-01.jpg"
+        },
+        {
+            "name": "SR Two Col 03",
+            "description": "Ideal for combining text with captivating visuals, featuring headers, body text, and optional CTAs. Use them together for a left-right visual pattern or to break up text-heavy pages. Perfect for product pages, showcasing specific features or processes with corresponding text.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-two-col-03.jpg"
+        },
+        {
+            "name": "SR Two Col 04",
+            "description": "Ideal for combining text with captivating visuals, featuring headers, body text, and optional CTAs. Use them together for a left-right visual pattern or to break up text-heavy pages. Perfect for product pages, showcasing specific features or processes with corresponding text.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-two-col-04.jpg"
+        },
+        {
+            "name": "SR Two Col 07",
+            "description": "Perfect for combining texts, lists, and CTAs with headers, body text, and CTAs.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-two-col-07.jpg"
+        },
+        {
+            "name": "SR Two Col 08",
+            "description": "Great for showcasing products side by side. A combination of columns, optional headers and texts, CTA buttons, and more.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-two-col-08.jpg"
+        },
+        {
+            "name": "SR Two Col 10",
+            "description": "Headers, body text, content, image, and CTAs combo.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-two-col-10.jpg"
+        },
+        {
+            "name": "SR Two Col Features 01",
+            "description": "Ideal for showcasing Products/Features with headers, subheaders, cards, images, and links. Perfect for easy product comparisons.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-two-col-features-01.jpg"
+        },
+        {
+            "name": "SR Two Col Features 02",
+            "description": "Ideal for Products/Features, featuring headers, subheaders, cards, and images. Perfect for showcasing product, offer, or service features with video or image.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-two-col-features-02.jpg"
+        },
+        {
+            "name": "SR Two Col Gallery 01",
+            "description": "Ideal for multiple images/collage, featuring headers, subheaders, and images. Great for Homepages and team section pages.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-two-col-gallery-01.jpg"
+        },
+        {
+             "name": "SR Two Col Slider 01",
+         "description": "A flexible two-column slider module combining media and content in a clean layout. Each slide can include images, videos, or Lottie animations alongside headings, descriptions, feature lists, and call-to-action buttons. Built with smooth slider navigation, arrows, and pagination, making it ideal for showcasing product features, marketing highlights, case studies, or step-by-step storytelling sections.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-two-col-slider-01.jpg"
+        },
+        {
+            "name": "SR Two Col TOC 01",
+            "description": "Perfect for FAQs and Quick Facts. Ideal for multiple topics, enabling easy navigation by clicking on tabs. Commonly used for FAQ Pages and About Us Pages.",
+            "category": "columns",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-two-col-toc-01.jpg"
+        },
+        {
+            "name": "SR Video Overlay 01",
+            "description": "A hero-style video overlay module featuring a background image or video with a centered play button that opens a modal video player. Supports headings, descriptive text, and call-to-action buttons, making it ideal for landing pages, product introductions, storytelling sections, and brand highlight videos.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-video-overlay-01.jpg"
+        },
+        {
+            "name": "SR Video Slider 01",
+            "description": "Ideal for About Us and Work Culture pages with headers, body text, videos, filters, slides, and CTAs. Perfect for incorporating dynamic content into these pages.",
+            "category": "bling",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-video-slider-01.jpg"
+        },
+        {
+            "name": "SR Separator 01",
+            "description": "A customizable separator module for visually dividing sections of a page. Supports text, icons, or images centered between horizontal lines with adjustable styles such as solid, dashed, or dotted. Ideal for improving content structure, highlighting section transitions, and adding subtle visual separation across layouts.",
+            "category": "elements",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-separator-01.jpg"
+        },
+        {
+            "name": "SR Nav Off Canvas 01",
+            "description": "A fullscreen navigation overlay module that expands from a menu toggle to display large, structured navigation links with optional numbering. Includes support for search, language switching, and call-to-action buttons, making it ideal for modern websites that use immersive navigation experiences.",
+            "category": "navigation",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-nav-off-canvas-01.jpg"
+        },
+        {
+            "name": "SR Modal",
+            "description": "A centered modal popup module designed for announcements, promotions, lead capture, or important messages. Supports images, headings, descriptive text, call-to-action buttons, and optional forms, making it ideal for capturing user attention and driving engagement.",
+            "category": "elements",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-modal.jpg"
+        },
+        {
+            "name": "SR Locations 02",
+            "description": "An interactive world map module that highlights locations with clickable or hoverable markers. Each point can display a tooltip card with images, headings, descriptions, and call-to-action buttons, making it ideal for showcasing global offices, team locations, or regional services.",
+            "category": "tabs",
+            "image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-locations-02.jpg"
+       },
+{
+"name": "SR Locations 01",
+"description": "An interactive global map module that displays location markers generated from HubDB data. Each marker reveals a card with images, location details, descriptions, and optional call-to-action buttons, making it ideal for showcasing offices, teams, or worldwide presence.",
+"category": "tabs",
+"image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-locations-01.jpg"
+},
+{
+"name": "SR Image Hotspot 01",
+"description": "An interactive image hotspot module that allows placing clickable markers on an image to reveal tooltips with additional information. Each hotspot can include icons, headings, and descriptive text, making it ideal for highlighting product features, visual storytelling, or guided explanations within an image.",
+"category": "bling",
+"image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-image-hotspot-01.jpg"
+},
+{
+"name": "SR HTML",
+"description": "A flexible custom HTML module that allows inserting raw HTML, scripts, or embed code directly into a page. Ideal for integrating third-party widgets, custom components, or advanced layouts that require manual markup.",
+"category": "structure",
+"image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-html.jpg"
+},
+{
+"name": "SR Hero 500",
+"description": "A full-width hero module designed for 500 error pages, featuring a large headline, description, and call-to-action button over a customizable background image or video. Supports parallax effects, overlays, and responsive layouts to create a visually engaging system error page.",
+"category": "hero",
+"image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-hero-500.jpg"
+},
+{
+"name": "SR Hero 404",
+"description": "A full-width hero module designed for 404 error pages, featuring a prominent headline, supporting description, and call-to-action button. Supports background images, video, gradients, overlays, and optional parallax effects to create a visually engaging 'page not found' experience.",
+"category": "hero",
+"image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-hero-404.jpg"
+},
+{
+"name": "SR Events 01",
+"description": "A flexible events listing module that displays upcoming events with dates, titles, and optional links. Supports styled event cards, hover effects, and the ability to hide past events, making it ideal for webinars, workshops, and announcements.",
+"category": "cards",
+"image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-events-01.jpg"
+},
+{
+"name": "SR Event Listing 01",
+"description": "A multi-column event listing module that displays event cards with images, duration, ratings, location, pricing, descriptions, and call-to-action buttons. Ideal for promoting workshops, courses, webinars, or upcoming events in a visually engaging grid layout.",
+"category": "cards",
+"image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-event-listing-01.jpg"
+},
+{
+"name": "SR Event Details 01",
+"description": "A detailed event presentation module that showcases a single event with a featured image, pricing, ratings, duration, and location. Includes sections for key features, descriptions, and additional informational blocks, making it ideal for event landing pages, workshops, or course details.",
+"category": "cards",
+"image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-event-details-01.jpg"
+},
+{
+"name": "SR Cards Articles 03",
+"description": "A blog article listing module that displays posts in a card grid with category filtering, featured images, summaries, and author information. Includes an optional newsletter subscription form that can appear beside the article list, making it ideal for blog landing pages and content hubs.",
+"category": "cards",
+"image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-cards-articles-03.jpg"
+},
+{
+"name": "SR Bento Grid 01",
+"description": "A flexible bento-style grid module that arranges content cards in a responsive mosaic layout. Each grid item can contain images, text, videos, forms, or CTAs, with customizable sizes, backgrounds, and hover effects, making it ideal for showcasing features, product highlights, or promotional content.",
+"category": "bling",
+"image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-bento-grid-01.jpg"
+},
+{
+"name": "SR Animations",
+"description": "A utility module that enables scroll-triggered, hover, and custom CSS animations for page elements. Supports AOS (Animate On Scroll), Animate.css hover effects, intersection observer triggers, and custom keyframe animations with configurable delays, durations, and easing.",
+"category": "elements",
+"image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/sr-animations.jpg"
+},
+{
+"name": "Pricing Comparison",
+"description": "A flexible pricing comparison module designed to display multiple subscription plans with feature breakdowns. Supports plan cards with pricing, labels, CTAs, and a detailed comparison table with collapsible categories, tooltips, icons, and optional monthly/yearly pricing toggle.",
+"category": "offers",
+"image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/pricing-comparison.jpg"
+},
+{
+"name": "Multistep Form",
+"description": "A multi-step form module that guides users through a structured process using step navigation and progress indicators. Supports grouped fields, validation, conditional logic, multiple input types, and customizable next/previous actions with a final submission or thank-you state.",
+"category": "offers",
+"image": "https://ik.imagekit.io/vw0mli0bz/module-previews/stardust/multistep-form.jpg"
+}
+    ]
+}
